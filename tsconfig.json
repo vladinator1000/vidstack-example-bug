@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "jsx": "react",
-    "experimentalDecorators": true
+    "jsx": "react-jsx",
+    "types": ["vidstack/globals"]
   }
 }

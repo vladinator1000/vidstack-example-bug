@@ -2,10 +2,9 @@
   "name": "vidstack-import-bug",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
   "scripts": {
-    "start": "parcel",
-    "build": "parcel build"
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
   },
   "dependencies": {
     "@types/react": "18.0.28",
